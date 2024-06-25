@@ -1,0 +1,78 @@
+body
+{
+    background-color: black;
+}
+
+
+
+
+#app_name
+{
+    color: azure;
+    font-family: cursive;
+}
+
+#side{
+    text-align: left;
+    color: white;
+    font-weight: bold;
+}
+
+#side-part
+{
+    padding-bottom: 2em;
+}
+
+.small-container
+{
+    margin-top: 2em;
+}
+
+img
+{
+    border-radius: 30px;
+}
+
+#pfid
+{
+    padding: 1em;
+}
+
+#post
+{
+    border-radius: 0px;
+    width: 600;
+}
+
+.card
+{
+    background-color: black;
+}
+
+.card-title
+{
+    color: white;
+    text-align:start;
+}
+
+#username
+{
+    text-align: start;
+}
+
+#post-profile
+{
+    justify-content: end;
+}
+
+#post-activity
+{
+    
+    color: white;
+    padding-right: 1em;
+}
+
+#post-likes
+{
+    padding: 1em;
+}
